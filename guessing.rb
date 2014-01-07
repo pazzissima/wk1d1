@@ -3,6 +3,7 @@ puts "Enter a number"
 num = gets.chomp.to_i
 random = rand(1..100)
 
+#Hello Sofya!!!!
 
 i=1
 while num!=random
