@@ -1,4 +1,5 @@
 puts "Enter a number"
+#1st comment
 num = gets.chomp.to_i
 random = rand(1..100)
 
